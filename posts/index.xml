@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Soapbox Data Science</title>
-    <link>https://www.soapboxds.com/posts/</link>
-    <description>Recent content in Posts on Soapbox Data Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.soapboxds.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Back2Basics P.1 - e and log</title>
-      <link>https://www.soapboxds.com/posts/hello_world/</link>
-      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.soapboxds.com/posts/hello_world/</guid>
-      <description>The e You probably have heard the saying that &amp;ldquo;there is no force in the universe more powerful than compound interest&amp;rdquo;. It was supposedly said by Albert Einstein. The saying could be an urban legend but it points out the importance of the concept called exponential growth. Einstein could have said &amp;ldquo;there is no force in the universe more powerful than exponential growth&amp;rdquo; and he would have made the same point but I think there is this slight difference between them which is &amp;ldquo;possibility&amp;rdquo;.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Soap Box Data Science</title>
+        <link>https://www.soapboxds.com/posts/</link>
+        <description>All Posts | Soap Box Data Science</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 Feb 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.soapboxds.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Back2Basics P.1 - e and log</title>
+    <link>https://www.soapboxds.com/b2b_p1/</link>
+    <pubDate>Thu, 23 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Mehmet Can</author>
+    <guid>https://www.soapboxds.com/b2b_p1/</guid>
+    <description><![CDATA[The e You probably have heard the saying that &ldquo;there is no force in the universe more powerful than compound interest&rdquo;. It was supposedly said by Albert Einstein. The saying could be an urban legend but it points out the importance of the concept called exponential growth. Einstein could have said &ldquo;there is no force in the universe more powerful than exponential growth&rdquo; and he would have made the same point but I think there is this slight difference between a natural phenomenon displays exponential growth and compound interest when it comes to the point of growing exponentially forever.]]></description>
+</item>
+</channel>
 </rss>

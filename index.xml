@@ -1,30 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Those machines ain&#39;t gonna learn themselves on Soapbox Data Science</title>
-    <link>https://www.soapboxds.com/</link>
-    <description>Recent content in Those machines ain&#39;t gonna learn themselves on Soapbox Data Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.soapboxds.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Back2Basics P.1 - e and log</title>
-      <link>https://www.soapboxds.com/posts/hello_world/</link>
-      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.soapboxds.com/posts/hello_world/</guid>
-      <description>The e You probably have heard the saying that &amp;ldquo;there is no force in the universe more powerful than compound interest&amp;rdquo;. It was supposedly said by Albert Einstein. The saying could be an urban legend but it points out the importance of the concept called exponential growth. Einstein could have said &amp;ldquo;there is no force in the universe more powerful than exponential growth&amp;rdquo; and he would have made the same point but I think there is this slight difference between them which is &amp;ldquo;possibility&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.soapboxds.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.soapboxds.com/about/</guid>
-      <description>Hey there! I hope you have a good time reading my content. Let me quickly introduce myself. My name is Mehmet (nice to meet you too!). I do data stuff and occasionally try to instruct to silicon based processors to make business decisions for me. My tools of trade are Python and its data/ai ecosystem packages. But, I&amp;rsquo;m also very fond of C++ (who doesn&amp;rsquo;t really?).
-Anyway, the main topics of this blog are data stuff, ai/ml and quantitative finance.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Soap Box Data Science</title>
+        <link>https://www.soapboxds.com/</link>
+        <description>Soap Box Data Science</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 Feb 2023 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://www.soapboxds.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Back2Basics P.1 - e and log</title>
+    <link>https://www.soapboxds.com/b2b_p1/</link>
+    <pubDate>Thu, 23 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Mehmet Can</author>
+    <guid>https://www.soapboxds.com/b2b_p1/</guid>
+    <description><![CDATA[The e You probably have heard the saying that &ldquo;there is no force in the universe more powerful than compound interest&rdquo;. It was supposedly said by Albert Einstein. The saying could be an urban legend but it points out the importance of the concept called exponential growth. Einstein could have said &ldquo;there is no force in the universe more powerful than exponential growth&rdquo; and he would have made the same point but I think there is this slight difference between a natural phenomenon displays exponential growth and compound interest when it comes to the point of growing exponentially forever.]]></description>
+</item>
+</channel>
 </rss>
