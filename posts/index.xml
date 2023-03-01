@@ -6,15 +6,14 @@
     <description>Recent content in Posts on Soapbox Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.soapboxds.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.soapboxds.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>Back2Basics P.1 - e and log</title>
       <link>https://www.soapboxds.com/posts/hello_world/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.soapboxds.com/posts/hello_world/</guid>
-      <description>HELLO WORLD Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
-Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron. The voice came from an oblong metal plaque like a dulled mirror which formed part of the surface of the right-hand wall.</description>
+      <description>The e You probably have heard the saying that &amp;ldquo;there is no force in the universe more powerful than compound interest&amp;rdquo;. It was supposedly said by Albert Einstein. The saying could be an urban legend but it points out the importance of the concept called exponential growth. Einstein could have said &amp;ldquo;there is no force in the universe more powerful than exponential growth&amp;rdquo; and he would have made the same point but I think there is this slight difference between them which is &amp;ldquo;possibility&amp;rdquo;.</description>
     </item>
     
   </channel>
