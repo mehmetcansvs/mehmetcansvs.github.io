@@ -4,7 +4,7 @@
 
 You probably have heard the saying that "there is no force in the universe more powerful than compound interest". It was supposedly said by Albert Einstein. The saying could be an urban legend but it points out the importance of the concept called exponential growth. Einstein could have said "there is no force in the universe more powerful than exponential growth" and he would have made the same point but I think there is this slight difference between a natural phenomenon displays exponential growth and compound interest when it comes to the point of growing exponentially forever. Anyway, when we talk about exponential growth or exponentials in general, the number e pops up naturally. In this blog post I'll try discover e.
 
-What is e? If you have taken maths course you have probably heard it but have you ever think on it? How to get this magical number? And most importantly, why this number has a special name?
+What is e? If you have taken maths course you must have heard it but have you ever think on it? How to get this magical number? And most importantly, why this number has a special name?
 
 The number e, also known as Euler's number which is approximately equals to 2.7183. I said approximately because like $\pi$ it goes on forever. I will not get into historical bits who found it etc. Doesn't matter for me, what I want is to find or discover this number myself and by doing so, I want to understand it as much as I can do. And since this blog is also about quantitative mathematics, I will try to do it in context of finance.
 
